@@ -1,0 +1,16 @@
+[26-Oct-24 15:07:02 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[26-Oct-24 15:11:03 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[26-Oct-24 15:11:03 - INFO] - bot - Bot stopped.
+[26-Oct-24 15:11:12 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[26-Oct-24 15:12:41 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[26-Oct-24 15:12:41 - INFO] - bot - Bot stopped.
+[26-Oct-24 15:12:49 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
